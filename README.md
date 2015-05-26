@@ -26,7 +26,7 @@ This project is to analyse the stock trends.
 ## Show trend graph
 
 1. Users enter the options
-2. Graph the data from corresponding website [finance.yahoo.com](finance.yahoo.com "finance.yahoo.com") 
+2. Grab the data from corresponding website [finance.yahoo.com](finance.yahoo.com "finance.yahoo.com") 
 3. Draw the trend graphs
 
 
